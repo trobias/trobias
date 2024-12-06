@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trobias, A Argentinian Student
 - 👀 I’m interested in Python, I Know MySQL, XAMPP, PhpMyAdmin, HTML, PHP, VISUAL BASIC 
-- 🌱 I’m currently learning Java, JavaScript, React
+- 🌱 I’m currently learning Java, JavaScript, React, AI ENGINEER
 - 💞️ I’m looking to collaborate on Repository
 
 <!---
