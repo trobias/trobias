@@ -25,6 +25,7 @@
 - 📦 CRM / internal tools for businesses  
 - 🌐 Web apps to visualize and use systems  
 
+- 🎓 Information Systems Engineering (in progress)
 ---
 
 <h2 align="center">🚀 Real Use Cases</h2>
@@ -44,75 +45,45 @@
 
 ---
 
+<h3 align="center">Real systems, not just code</h3>
+
 <h2 align="center">📌 Featured Projects</h2>
 
-<p align="center">
+- 🤖 **Bot de Pedidos (WhatsApp Automation)**  
+  WhatsApp-based ordering system with catalog, cart and automated workflows.  
+  → https://github.com/trobias/BotdePedidosPorWhatsappEMAGAplicacionInteligente  
 
-<a href="https://github.com/trobias/BotdePedidosPorWhatsappEMAGAplicacionInteligente">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trobias&repo=BotdePedidosPorWhatsappEMAGAplicacionInteligente&theme=tokyonight" />
-</a>
+- 🧠 **Jarvis AI Assistant**  
+  AI assistant that automates tasks, emails and workflows via WhatsApp.  
+  → https://github.com/trobias/JARVIS-GOOGLEWORKSPACE-WHATSAPPCHATBOT  
 
-<a href="https://github.com/trobias/JARVIS-GOOGLEWORKSPACE-WHATSAPPCHATBOT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trobias&repo=JARVIS-GOOGLEWORKSPACE-WHATSAPPCHATBOT&theme=tokyonight" />
-</a>
+- 🧩 **LinkedIn AI Assistant (RAG)**  
+  RAG-based assistant using real-time LinkedIn data.  
+  → https://github.com/trobias/AsistenteIALinkedIn  
 
-<a href="https://github.com/trobias/AsistenteIALinkedIn">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trobias&repo=AsistenteIALinkedIn&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/trobias/ZUBU3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trobias&repo=ZUBU3&theme=tokyonight" />
-</a>
-
-</p>
-
-### 🤖 Bot de Pedidos
-WhatsApp-based ordering system that replicates an e-commerce flow with catalog, cart and automated order processing.
-
-### 🧠 Jarvis AI Assistant
-AI assistant that automates tasks, emails and workflows via WhatsApp using APIs and automation tools.
-
-### 🧩 LinkedIn AI Assistant
-RAG-based conversational assistant that retrieves and processes real-time LinkedIn data.
-
-### ⚙️ ZUBU Platform
-Web platform for automation systems integrating WhatsApp, AI and business workflows.
+- ⚙️ **ZUBU Platform**  
+  Automation platform integrating WhatsApp, AI and business workflows.  
+  → https://github.com/trobias/ZUBU3  
 
 ---
 
 <h2 align="center">🧩 Other Projects</h2>
 
-<p align="center">
+- 🌐 **Portfolio Website**  
+  Personal website showcasing projects and automation systems.  
+  → https://github.com/trobias/PORTFOLIO  
 
-<a href="https://github.com/trobias/PORTFOLIO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trobias&repo=PORTFOLIO&theme=tokyonight" />
-</a>
+- ⚙️ **Process Simulator**  
+  Python-based system simulation focused on logic and algorithms.  
+  → https://github.com/trobias/Process-Simulator  
 
-<a href="https://github.com/trobias/Process-Simulator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trobias&repo=Process-Simulator&theme=tokyonight" />
-</a>
+- 🥗 **Nutriado (Web App)**  
+  Nutrition-focused web application with user interaction.  
+  → https://github.com/trobias/NUTRIADO  
 
-<a href="https://github.com/trobias/NUTRIADO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trobias&repo=NUTRIADO&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/trobias/NUTRIADO-PHP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trobias&repo=NUTRIADO-PHP&theme=tokyonight" />
-</a>
-
-</p>
-
-### 🌐 Portfolio
-Personal website showcasing projects and automation systems.
-
-### ⚙️ Process Simulator
-Python-based simulation tool focused on system logic and algorithmic behavior.
-
-### 🥗 Nutriado
-Web application for nutrition tracking and user interaction.
-
-### 🐘 Nutriado PHP
-Backend-focused version of a nutrition system with database integration.
+- 🐘 **Nutriado PHP (Backend)**  
+  PHP-based version with database and backend logic.  
+  → https://github.com/trobias/NUTRIADO-PHP  
 
 ---
 
@@ -147,6 +118,16 @@ Backend-focused version of a nutrition system with database integration.
 <img src="https://img.shields.io/badge/Ubiquiti-0559C9?logo=ubiquiti&logoColor=white">
 
 </p>
+
+---
+
+<h2 align="center">🧩 Other Skills</h2>
+
+- 🌐 Network design (GNS3, VLANs, routing)  
+- 🛠 Hardware & technical support  
+- 🔐 Pentesting & security basics  
+- 🎨 Design (Figma, Adobe, SketchUp)  
+- ⚡ Fast prototyping (Arduino / IoT)
 
 ---
 
