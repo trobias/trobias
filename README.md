@@ -35,26 +35,84 @@
   - payments via MercadoPago
   - Google Workspace automation  
 
-- 💰 Automatic payments:
-  - totals calculation
-  - payment link generation
-  - error-free flow  
+- 💰 Automatic payments  
+- 📅 Smart booking systems  
+- 📄 OCR automation  
+- 📊 Reports automation  
+- 📂 File workflows  
+- 🧠 AI assistants with RAG  
 
-- 📅 Smart booking system:
-  - scheduling + reminders
-  - reduced no-shows  
+---
 
-- 📄 OCR automation:
-  - extract data from invoices/images  
+<h2 align="center">📌 Featured Projects</h2>
 
-- 📊 Daily reports:
-  - sales & metrics sent automatically  
+<p align="center">
 
-- 📂 File automation:
-  - emails → Drive → organized storage  
+<a href="https://github.com/trobias/BotdePedidosPorWhatsappEMAGAplicacionInteligente">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trobias&repo=BotdePedidosPorWhatsappEMAGAplicacionInteligente&theme=tokyonight" />
+</a>
 
-- 🧠 AI assistant:
-  - RAG with vector DB (FAISS, LangChain, Cohere)  
+<a href="https://github.com/trobias/JARVIS-GOOGLEWORKSPACE-WHATSAPPCHATBOT">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trobias&repo=JARVIS-GOOGLEWORKSPACE-WHATSAPPCHATBOT&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/trobias/AsistenteIALinkedIn">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trobias&repo=AsistenteIALinkedIn&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/trobias/ZUBU3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trobias&repo=ZUBU3&theme=tokyonight" />
+</a>
+
+</p>
+
+### 🤖 Bot de Pedidos
+WhatsApp-based ordering system that replicates an e-commerce flow with catalog, cart and automated order processing.
+
+### 🧠 Jarvis AI Assistant
+AI assistant that automates tasks, emails and workflows via WhatsApp using APIs and automation tools.
+
+### 🧩 LinkedIn AI Assistant
+RAG-based conversational assistant that retrieves and processes real-time LinkedIn data.
+
+### ⚙️ ZUBU Platform
+Web platform for automation systems integrating WhatsApp, AI and business workflows.
+
+---
+
+<h2 align="center">🧩 Other Projects</h2>
+
+<p align="center">
+
+<a href="https://github.com/trobias/PORTFOLIO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trobias&repo=PORTFOLIO&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/trobias/Process-Simulator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trobias&repo=Process-Simulator&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/trobias/NUTRIADO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trobias&repo=NUTRIADO&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/trobias/NUTRIADO-PHP">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trobias&repo=NUTRIADO-PHP&theme=tokyonight" />
+</a>
+
+</p>
+
+### 🌐 Portfolio
+Personal website showcasing projects and automation systems.
+
+### ⚙️ Process Simulator
+Python-based simulation tool focused on system logic and algorithmic behavior.
+
+### 🥗 Nutriado
+Web application for nutrition tracking and user interaction.
+
+### 🐘 Nutriado PHP
+Backend-focused version of a nutrition system with database integration.
 
 ---
 
@@ -89,16 +147,6 @@
 <img src="https://img.shields.io/badge/Ubiquiti-0559C9?logo=ubiquiti&logoColor=white">
 
 </p>
-
----
-
-<h2 align="center">🧩 Other Skills</h2>
-
-- 🌐 Network design (GNS3, VLANs, routing)
-- 🛠 Hardware & technical support  
-- 🔐 Pentesting & security basics  
-- 🎨 Design (Figma, Adobe, SketchUp)  
-- ⚡ Fast prototyping (Arduino / IoT)
 
 ---
 
