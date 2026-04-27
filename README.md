@@ -105,7 +105,7 @@
 <h2 align="center">🌐 Portfolio</h2>
 
 <p align="center">
-  🔗 [https://tobias.vercel.app](https://tarnowski-portafolio.vercel.app/) <br>
+  🔗 https://tarnowski-portafolio.vercel.app
 </p>
 
 ---
