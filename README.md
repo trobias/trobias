@@ -6,25 +6,17 @@
   🇦🇷 Argentina
 </p>
 
-<p align="center">
+<a href="https://git.io/streak-stats">
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=trobias&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000"
-    alt="GitHub stats"
+    src="https://streak-stats.demolab.com?user=trobias&theme=tokyonight&hide_border=true&border_radius=8&timezone=America%2FArgentina%2FBuenos_Aires"
+    alt="GitHub Streak"
   />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=trobias&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"
-    alt="Top languages"
-  />
-</p>
+</a>
+
+
 
 <p align="center">
-  <img
-    height="165"
-    src="https://streak-stats.demolab.com?user=trobias&theme=tokyonight&hide_border=true&background=00000000"
-    alt="GitHub streak"
-  />
+  <img height="155" src="./profile/streak.svg" alt="GitHub Streak" />
 </p>
 
 ---
