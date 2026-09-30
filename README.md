@@ -6,18 +6,14 @@
   🇦🇷 Argentina
 </p>
 
-<a href="https://git.io/streak-stats">
-  <img
-    src="https://streak-stats.demolab.com?user=trobias&theme=tokyonight&hide_border=true&border_radius=8&timezone=America%2FArgentina%2FBuenos_Aires"
-    alt="GitHub Streak"
-  />
-</a>
-
-
-
-<p align="center">
-  <img height="155" src="./profile/streak.svg" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=trobias&theme=tokyonight&hide_border=true&border_radius=8&timezone=America%2FArgentina%2FBuenos_Aires"
+      alt="GitHub Streak"
+    />
+  </a>
+</div>
 
 ---
 
